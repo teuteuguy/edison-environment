@@ -1,0 +1,19 @@
+{
+  "name": "edison-environment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "environment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://teuteuguy@github.com/teuteuguy/edison-environment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teuteuguy/edison-environment/issues"
+  },
+  "homepage": "https://github.com/teuteuguy/edison-environment#readme"
+}
